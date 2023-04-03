@@ -1,5 +1,6 @@
 # JUEGO PIEDRA PAPEL Y TIJERA EN PYTHON💛 🏆🎮
 
+![image](https://user-images.githubusercontent.com/72534486/229554893-bcec42d0-2bc7-497d-92ae-cf15dc20f06b.png)
 
 
 
